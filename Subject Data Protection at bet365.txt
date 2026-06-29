@@ -1,0 +1,34 @@
+Marco Cavani — Cover Letter
+Marco Cavani Perth, WA
+
+0468 825 323 | cavaniaustralia@gmail.com
+
+marcoweb.org
+
+13 June 2026
+
+Hiring Team Mesh
+
+Europe (Remote)
+
+Subject: Application for GRC Analyst Dear Mesh Hiring Team,
+
+I am exciting to submit my application for the GRC Analyst position at Mesh. With a strong foundation in cybersecurity from my Bachelor of Science studies at ECU and hands-on experience in IT General Controls (ITGC) and risk remediation at RSM Australia, I am eager to help Mesh scale its compliance foundation securely. The opportunity to contribute to a high-growth infrastructure backed by leaders like PayPal Ventures and Paradigm is incredibly compelling to me.
+
+Throughout my career, I have focused on being a practical, hands-on problem solver. In my current role as a GRC Specialist at RSM Australia, I actively conduct IT risk assessments, perform ITGC and IT Application Control audits, and analyze user access lists and system logs. I understand that effective compliance in a fast-paced fintech and crypto environment isn't just about checking boxes; it’s about turning rigid regulatory frameworks into practical, scalable controls that protect the network while supporting rapid growth.
+
+The core responsibilities of this role align perfectly with my background and technical skillset:
+
+Control Environments & Frameworks: My day-to-day work involves identifying vulnerabilities, auditing controls, and planning remediation. I am highly motivated to bring this experience to Mesh to support your SOC 2 operations and align processes with security frameworks like NIST.
+
+Risk Lifecycle Management: Having transitioned from a technical support background at Crown Towers into dedicated GRC work, I possess a holistic view of the issue lifecycle. I am adept at managing risk from initial discovery and log analysis through to cross-functional remediation.
+
+Streamlining & AI Efficiency: I deeply resonate with Mesh's emphasis on leveraging modern efficiency tools. I actively utilize AI capabilities to optimize workflow documentation, analyze complex datasets, and streamline risk reporting to drive better compliance outcomes faster.
+
+I thrive in environments that value high ownership and clear execution. I am excited about the prospect of supporting Mesh’s expanding global network—including future MiCA and U.S. Money Transmitter License initiatives—by building resilient, standardized GRC programs.
+
+Thank you for your time and consideration. I look forward to discussing how my risk analysis background and passion for secure infrastructure can support Mesh’s mission.
+
+Sincerely,
+
+Marco Cavan
