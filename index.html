@@ -236,13 +236,19 @@
     }
 
     /* ── Print / PDF ── */
+    @page {
+      size: A4;
+      margin: 0;
+    }
+
     @media print {
       body { background: white; font-size: 10.5pt; }
       .page {
         margin: 0;
-        padding: 10mm 14mm;
+        padding: 12mm 16mm;
         box-shadow: none;
         max-width: 100%;
+        width: 100%;
       }
       .name { font-size: 26pt; }
       .headline { font-size: 10pt; }
