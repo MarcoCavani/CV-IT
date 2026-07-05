@@ -19,16 +19,16 @@
 
     .page {
       max-width: 820px;
-      margin: 36px auto;
+      margin: 24px auto;
       background: #ffffff;
-      padding: 52px 60px;
+      padding: 36px 48px;
       box-shadow: 0 6px 32px rgba(0,0,0,0.12);
     }
 
     /* ── Header ── */
     .header {
-      margin-bottom: 24px;
-      padding-bottom: 18px;
+      margin-bottom: 18px;
+      padding-bottom: 14px;
       border-bottom: 1px solid #1a1a1a;
     }
 
@@ -50,31 +50,34 @@
     }
 
     .contact-bar {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 4px 0;
-      margin-top: 12px;
+      margin-top: 10px;
       font-size: 12px;
       color: #444444;
-      font-weight: 400;
+      line-height: 1.9;
     }
 
-    .contact-bar span { padding-right: 16px; }
-
-    .contact-bar span::after {
-      content: "·";
-      margin-left: 16px;
-      color: #bbbbbb;
+    .contact-bar .cline {
+      display: block;
     }
 
-    .contact-bar span:last-child::after { content: ""; }
+    .contact-bar .clabel {
+      font-weight: 700;
+      color: #111111;
+      min-width: 68px;
+      display: inline-block;
+    }
+
+    .contact-bar .sep {
+      color: #cccccc;
+      margin: 0 10px;
+    }
 
     .contact-bar a { color: #1a1a1a; text-decoration: none; }
     .contact-bar a:hover { text-decoration: underline; }
 
     /* ── Sections ── */
     .section {
-      margin-bottom: 22px;
+      margin-bottom: 15px;
       page-break-inside: avoid;
     }
 
@@ -85,8 +88,8 @@
       text-transform: uppercase;
       color: #000000;
       border-bottom: 1.5px solid #333333;
-      padding-bottom: 5px;
-      margin-bottom: 14px;
+      padding-bottom: 4px;
+      margin-bottom: 10px;
     }
 
     /* ── Summary ── */
@@ -99,7 +102,7 @@
 
     /* ── Jobs ── */
     .job {
-      margin-bottom: 16px;
+      margin-bottom: 11px;
       page-break-inside: avoid;
     }
 
@@ -237,7 +240,7 @@
       body { background: white; font-size: 10.5pt; }
       .page {
         margin: 0;
-        padding: 14mm 16mm;
+        padding: 10mm 14mm;
         box-shadow: none;
         max-width: 100%;
       }
@@ -271,11 +274,18 @@
     <div class="name">MARCO CAVANI</div>
     <div class="headline">Information Security Consultant &nbsp;·&nbsp; ITGC Auditor &nbsp;·&nbsp; marcoweb.org</div>
     <div class="contact-bar">
-      <span>Perth, WA</span>
-      <span>0468 825 323</span>
-      <span><a href="mailto:cavaniaustralia@gmail.com">cavaniaustralia@gmail.com</a></span>
-      <span><a href="https://marcoweb.org" target="_blank">marcoweb.org</a></span>
-      <span><a href="https://linkedin.com/in/marcocavani" target="_blank">linkedin.com/in/marcocavani</a></span>
+      <span class="cline">
+        <span class="clabel">Location</span> Perth, WA
+        <span class="sep">|</span>
+        <span class="clabel">Mobile</span> 0468 825 323
+        <span class="sep">|</span>
+        <span class="clabel">Email</span> <a href="mailto:cavaniaustralia@gmail.com">cavaniaustralia@gmail.com</a>
+      </span>
+      <span class="cline">
+        <span class="clabel">Website</span> <a href="https://marcoweb.org" target="_blank">marcoweb.org</a>
+        <span class="sep">|</span>
+        <span class="clabel">LinkedIn</span> <a href="https://linkedin.com/in/marcocavani" target="_blank">linkedin.com/in/marcocavani</a>
+      </span>
     </div>
   </div>
 
